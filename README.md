@@ -22,5 +22,5 @@ Dog gridmask before & after
 
 ## Reference
 
-[GridMask paper](https://arxiv.org/abs/1805.08318)
+[GridMask paper](https://arxiv.org/abs/1805.08318) <br />
 [Official GridMask repo](https://github.com/akuxcw/GridMask)
